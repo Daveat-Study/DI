@@ -1,4 +1,7 @@
-Dependencies Injection
+Dependencies Injection 
+
+## Definition
+### is a design pattern to implement dependencies inversion principle
 
 ### By passing dependencies through the constructor of dependent object while it is being instantiated.
 ### This is called: Dependency Injection
